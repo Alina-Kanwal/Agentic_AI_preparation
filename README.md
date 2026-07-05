@@ -764,6 +764,168 @@ Exam Points
 
 ✔ Data analysis mein AI ko explicitly code run karne ko kehna chahiye.
 
+Yeh rahi **Part 4** ki corrected documentation. Is baar maine **sirf uploaded document** ke content ko easy Urdu mein convert kiya hai. Previous concepts repeat nahi kiye.
+
+# AI Prompting in 2026 – Part 4
+
+# Working Safely & Choosing Tools
+
+Is section mein 3 naye concepts hain:
+
+* AI Desktop Apps aur unki Permissions
+* Har task ke liye sahi AI model ka selection
+* AI Models se ek dusre ka review karwana
+
+---
+
+# 11. AI Desktop Apps & Permissions
+
+AI Desktop Apps woh applications hain jo **tumhare computer par chalti hain** aur **tumhari permission se** files ko read, organize aur un par actions perform kar sakti hain.
+
+Ye normal chatbot se zyada powerful hoti hain.
+
+### Ye kya kar sakti hain?
+
+* PDFs aur folders ko organize karna.
+* Files rename ya move karna.
+* Project ki related files ikatthi karna.
+* Kisi folder ki tamam files ka summary banana.
+
+### Safe Workflow
+
+Kabhi bhi AI ko seedha action mat do.
+
+Hamesha ye sequence follow karo:
+
+1. AI ko task batao.
+2. Action nahi, **plan** maango.
+3. Plan ko review aur edit karo.
+4. Jab sab sahi lage tab execution approve karo.
+
+### File Access Dete Waqt
+
+Shuru mein:
+
+* Sirf **Read-Only** access do.
+* Sirf us folder ki permission do jahan AI ko kaam karna hai.
+* Jaldi mein **Full Disk Access** mat do.
+
+### Important Risks
+
+* AI Desktop Apps kuch cases mein files ko permanently delete kar sakti hain, isliye zaroori nahi ke har deleted file Recycle Bin mein jaye. Is wajah se important files ka backup rakhna best practice hai.
+* AI file edit kare to old version automatically preserve nahi hoti, isliye backup rakhna best practice hai.
+
+Isliye important files ka backup rakhna achhi practice hai.
+
+### Exam Point
+
+**Task → Plan → Review → Approve → Execute**
+
+---
+
+# 12. Cost, Speed & Right Model
+
+Har AI model har task ke liye best nahi hota.
+
+AI tools aur unki ranking time ke sath change hoti rehti hai, isliye ek hi model par hamesha depend nahi rehna chahiye.
+
+### 5 Major AI Families
+
+* Claude
+* ChatGPT
+* Gemini
+* Meta AI
+* DeepSeek
+
+### Best Practice
+
+* Har mahine check karo ke ab kaunsa AI model sabse achha perform kar raha hai, kyun ke rankings time ke sath change hoti rehti hain.
+* Apne real prompt ko 2–3 AI models mein test karo.
+* Jo model tumhare kaam mein best perform kare, usay use karo.
+
+### 3 Useful Habits
+
+**1. Backup Tool Rakho**
+
+Agar primary AI ka answer doubtful lage to wahi prompt dusre AI mein bhi test karo.
+
+**2. Prompt Scratchpad Banao**
+
+Achhe prompts ko ek note file mein save karo taake baad mein reuse kar sako.
+
+**3. AI ki Ghaltiyon ko Observe Karo**
+
+Har mistake se seekho. Is se tumhein har tool ki limitations samajh aayengi.
+
+### Exam Point
+
+**Best AI model woh hai jo tumhare actual task mein best result de.**
+
+---
+
+# 13. Models Checking Models
+
+Agar kisi answer ka human expert available na ho, to ek AI ke answer ko dusre AI se review karwana quality improve kar sakta hai.
+
+### Kyon?
+
+Har AI model ki apni strengths aur blind spots hoti hain.
+
+Jo point ek model miss kare, dusra model pakar sakta hai. Isliye different AI families ka review zyada useful hota hai.
+
+### Light Version (Rozana Kaam)
+
+Agar sirf ek AI use kar rahe ho:
+
+* AI se apne draft ko score karwao.
+* Weak points identify karwao.
+* Un suggestions ke mutabiq draft improve karwao.
+* Jab score improve hona band ho jaye, stop kar do.
+
+### High-Stakes Version
+
+Agar document bahut important ho:
+
+1. Pehle best AI se draft banao.
+2. Usi se self-review karwao.
+3. Phir us draft ko kisi **different AI family** mein review karwao.
+4. Dono reviews compare karke final version improve karo.
+
+### Important Note
+
+Agar 2 ya 3 AI models agree bhi kar lein, tab bhi iska matlab **100% sach** nahi hota.
+
+Legal, Medical, Financial ya kisi real person se related information ke liye human expert ki verification zaroori hai.
+
+### Kab Multi-Model Review Zaroori Hai?
+
+* Reports
+* Strategy Documents
+* Contracts
+* Important Decisions
+
+Short emails ya casual brainstorming ke liye single-model review kaafi hota hai.
+
+---
+
+# Quick Revision
+
+* AI Desktop Apps ko minimum permissions do.
+* Action se pehle hamesha plan review karo.
+* Har task ke liye sahi AI model choose karo.
+* Achhe prompts save karo aur AI ki mistakes se seekho.
+* Important documents mein different AI families se cross-check karna quality improve karta hai.
+* High-stakes work mein final verification human expert hi karega.
+
+---
+
+# One-Line Revision
+
+* **AI Desktop Apps:** Permission ke sath files par kaam kar sakti hain.
+* **Right Model:** Har task ke liye alag AI best ho sakta hai.
+* **Models Checking Models:** Ek AI ke answer ko dusre AI se review karwana quality improve karta hai, lekin human verification ka replacement nahi.
+
+
 
 
 
