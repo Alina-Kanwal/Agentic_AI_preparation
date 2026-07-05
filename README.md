@@ -572,4 +572,138 @@ Developer ki responsibility hai ke output ko verify kare aur zarurat ho to AI ko
 * Think Hard complex tasks ke liye use hota hai.
 * AI ka answer hamesha verify karna chahiye.
 
+# AI Prompting in 2026 – Part 2B
+
+## Talking to AI Well (Continued)
+
+---
+
+# 4. Sycophancy
+
+**Sycophancy** ka matlab hai AI ka **har baat par user se agree kar lena**, chahe user ki baat ghalat hi kyon na ho.
+
+Kabhi kabhi AI user ko khush karne ke liye incorrect ya weak answer bhi accept kar leta hai. Ye AI ki limitation hai.
+
+### Example
+
+User:
+
+> Mujhe lagta hai 2 + 2 = 5. Kya main sahi hoon?
+
+Agar AI bina verify kiye sirf agree kar de, to ye **Sycophancy** hai.
+
+### Exam Point
+
+> **Sycophancy = User ko khush karne ke liye har baat se agree kar lena.**
+
+---
+
+# 5. Sycophancy ko Neutralize Karna
+
+AI se sirf agreement nahi, **honest aur evidence-based answer** lena chahiye.
+
+Prompt likhte waqt AI ko clear instruction dein ke:
+
+* Sirf facts par jawab do.
+* Agar main ghalat hoon to correct karo.
+* Meri baat se bina wajah agree mat karo.
+* Evidence aur reasoning use karo.
+
+Is tarah AI zyada objective aur reliable response dega.
+
+### Example Prompt
+
+> Mere ideas ko critically evaluate karo. Agar kahin ghalti ho to clearly point out karo. Sirf agree mat karna.
+
+### Exam Point
+
+> **AI se "Agree" nahi, "Correct" answer lena objective hona chahiye.**
+
+---
+
+# 6. Brainstorm → Iterate Loop
+
+Professional developers AI se ek hi prompt mein perfect answer expect nahi karte.
+
+Wo AI ke sath **Brainstorm → Iterate Loop** follow karte hain.
+
+### Step 1: Brainstorm
+
+Sab se pehle AI se multiple ideas generate karwate hain.
+
+Example:
+
+> Restaurant website ke liye 10 unique features suggest karo.
+
+---
+
+### Step 2: Select
+
+Generated ideas mein se best ideas choose kiye jate hain.
+
+---
+
+### Step 3: Iterate
+
+Selected idea ko feedback de kar baar baar improve kiya jata hai.
+
+Har iteration ke baad output aur behtar hota jata hai.
+
+---
+
+### Step 4: Finalize
+
+Jab output requirement ke mutabiq ho jaye to usay final accept kiya jata hai.
+
+---
+
+## Ye Approach Kyon Important Hai?
+
+Is process se:
+
+* Better ideas milte hain.
+* Mistakes kam hoti hain.
+* Final output ki quality improve hoti hai.
+* AI ek creative partner ki tarah kaam karta hai.
+
+---
+
+# Quick Revision
+
+### Sycophancy
+
+AI ka bina wajah user se agree kar lena.
+
+### Neutralize
+
+AI ko facts aur reasoning ki base par answer dene ki instruction dena.
+
+### Brainstorm → Iterate Loop
+
+Ideas Generate → Best Idea Select → Feedback → Improve → Final Result
+
+---
+
+# Exam Tips
+
+✔ **Sycophancy** AI ki limitation hai.
+
+✔ AI ko hamesha **critical aur evidence-based** response dene ke liye guide karein.
+
+✔ Best results ek hi prompt se nahi, **multiple iterations** se milte hain.
+
+✔ Professional AI users pehle brainstorm karte hain, phir iterate karke final solution tak pohanchte hain.
+
+---
+
+# One-Line Revision
+
+* **Sycophancy:** AI har baat par agree kar leta hai.
+* **Neutralize:** AI ko sach aur facts batane ki instruction do.
+* **Brainstorm:** Multiple ideas generate karo.
+* **Iterate:** Feedback de kar answer improve karte jao.
+
+
+
+
 
