@@ -703,6 +703,67 @@ Ideas Generate → Best Idea Select → Feedback → Improve → Final Result
 * **Brainstorm:** Multiple ideas generate karo.
 * **Iterate:** Feedback de kar answer improve karte jao.
 
+9. Building Small Apps with One Prompt
+
+Modern AI ek hi prompt se small websites, tools aur games bana sakta hai. Ye feature non-developers ke liye bhi useful hai.
+
+App banane ka Formula
+
+Har prompt mein 3 cheezen clear honi chahiye:
+
+Goal → App kya kare?
+Input → User kya dega?
+Output → User ko kya result milega?
+AI kis type ki apps achhi banata hai?
+Pomodoro Timer
+Bill Splitter
+Outfit Picker
+Simple Games
+Single-screen Tools
+Kya abhi mushkil hai?
+Multiplayer Apps
+Networking
+User Accounts
+Real-time complex AI systems
+
+Inke liye abhi proper software engineering ki zarurat hoti hai.
+
+Exam Point:
+Simple one-screen apps → AI.
+Complex software → Engineering.
+
+10. Data Analysis (AI Writes & Runs Code)
+
+AI spreadsheets aur datasets ko analyze karne ke liye khud code likh kar run bhi kar sakta hai. Ye sirf guess karne se zyada reliable approach hai.
+
+Sabse Important Rule
+
+AI har baar automatically code execute nahi karta.
+
+Isliye hamesha likhein:
+
+"Write and run the code. Show me the code you ran."
+
+Ye ensure karta hai ke AI ne actual calculation ki hai, sirf estimate nahi diya.
+
+Best Practice
+Code visible hona chahiye.
+Result verify karein.
+Charts banwane se pehle dataset ka overview poochhein.
+Quick Revision
+Multimodal AI: Text ke sath images, audio aur documents bhi samajhta hai.
+Small Apps: Goal + Input + Output define karne se AI achhi app banata hai.
+Data Analysis: AI se code likhwa kar run karwana aur code verify karna best practice hai.
+Exam Points
+
+✔ AI image aur audio dono handle kar sakta hai.
+
+✔ AI simple apps ek prompt se bana sakta hai.
+
+✔ Goal, Input aur Output app prompt ke 3 core parts hain.
+
+✔ Data analysis mein AI ko explicitly code run karne ko kehna chahiye.
+
 
 
 
