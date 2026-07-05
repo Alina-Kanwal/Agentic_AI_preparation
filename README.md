@@ -480,3 +480,96 @@ Solo Coding ka matlab: Developer bina AI ki madad ke khud sara code likhta hai.
 
 [1]: https://agentfactory.panaversity.org/?utm_source=chatgpt.com "The AI Agent Factory"
 
+# AI Prompting in 2026 – Part 2A
+
+## Talking to AI Well
+
+---
+
+# 1. Context is the Whole Game
+
+Modern AI mein sab se important cheez **prompt nahi, context** hota hai.
+
+**Context** se murad woh tamam information hai jo AI ko task samajhne ke liye di jati hai.
+
+Sirf ek sentence likh dena kaafi nahi hota. AI ko jitna relevant context milega, utna hi accurate aur useful answer milega.
+
+### Context mein kya ho sakta hai?
+
+* Project ka background
+* Goal
+* Target audience
+* Rules ya restrictions
+* Pehle ki conversation
+* Required output format
+
+### Example
+
+❌ **Kam Context**
+
+> Resume banao.
+
+AI general resume bana dega.
+
+✅ **Achha Context**
+
+> Fresh Software Engineer ke liye ATS-friendly resume banao. Skills: Next.js, TypeScript, Python. Format professional ho.
+
+Ab AI zyada relevant result dega.
+
+### Exam Point
+
+> **Prompt se zyada Context important hota hai.**
+
+---
+
+# 2. Think Hard (Reasoning)
+
+Har task ka jawab same level ki thinking se nahi diya jata.
+
+Agar task:
+
+* Complex ho
+* Multiple steps ho
+* Analysis demand karta ho
+
+To AI ko **Think Hard (Reasoning)** mode mein kaam karna chahiye.
+
+Is mode mein AI jaldi answer dene ke bajaye pehle problem ko logically analyze karta hai aur phir response deta hai.
+
+### Kab Use Karein?
+
+* Coding
+* Planning
+* Debugging
+* Business Decisions
+* Research
+
+### Exam Point
+
+> **Complex Problem → Think Hard**
+
+---
+
+# 3. AI Har Baar Perfect Nahi Hota
+
+Reasoning use karne ke baad bhi AI mistakes kar sakta hai.
+
+Isliye AI ka answer final truth nahi hota.
+
+Developer ki responsibility hai ke output ko verify kare aur zarurat ho to AI ko dobara guide kare.
+
+### Yaad Rakhein
+
+**AI fast hai, lekin infallible (100% correct) nahi.**
+
+---
+
+# Quick Revision
+
+* Context AI ki performance ko improve karta hai.
+* Rich context = Better output.
+* Think Hard complex tasks ke liye use hota hai.
+* AI ka answer hamesha verify karna chahiye.
+
+
