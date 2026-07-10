@@ -1006,6 +1006,21 @@ Important Point
 
 AI ko program ka har step mat batayein. Sirf brief clear dein aur AI ko solution choose karne dein.
 
+Concept 6: Verifying Work You Cannot Read
+Concept
+
+AI ke likhe hue code ko blind trust na karein. Result ko hamesha kisi aisi cheez se verify karein jo aap pehle se independently jaante hon.
+
+Verification Methods
+Known-answer test: Aisa answer check karein jo pehle se maloom ho.
+Reality questions: Dekhein result real-world facts se match karta hai ya nahi.
+Plain-English replay: AI se simple language mein samjhayen ke usne kya kiya.
+Adversarial pass: AI se apne result ko dobara check karne aur possible mistakes dhoondhne ko kahen.
+Cross-model check: Zarurat par result kisi doosre AI model se bhi verify karein.
+Important Point
+
+Kabhi bhi kisi precision-critical number par action na lein jab tak usay kam az kam ek independently known answer se verify na kar lein.
+
 
 
 
