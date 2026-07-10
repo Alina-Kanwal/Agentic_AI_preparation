@@ -990,6 +990,22 @@ Ya AI ye na bataye ke usne kya compute kiya,
 
 to us analysis par bharosa na karein.
 
+Concept 5: Brief the Problem, Not the Program
+Concept
+
+AI ko step-by-step instructions dene ke bajaye sirf problem, goal aur required result clear batayein.
+
+AI khud decide karegi ke problem solve karne ke liye kaunsa approach aur code use karna hai.
+
+AI ko Kya Batana Hai?
+Problem kya hai?
+Final result kaisa chahiye?
+Koi important rules ya constraints hain?
+Success kaisi dikhegi?
+Important Point
+
+AI ko program ka har step mat batayein. Sirf brief clear dein aur AI ko solution choose karne dein.
+
 
 
 
