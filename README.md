@@ -925,6 +925,52 @@ Short emails ya casual brainstorming ke liye single-model review kaafi hota hai.
 * **Right Model:** Har task ke liye alag AI best ho sakta hai.
 * **Models Checking Models:** Ek AI ke answer ko dusre AI se review karwana quality improve karta hai, lekin human verification ka replacement nahi.
 
+# Concept 3: The Dividing Line – Which Problems Are Code Problems
+
+## Concept
+
+Har problem ke liye code ki zarurat nahi hoti.
+
+AI do tarah se help karti hai:
+
+1. **Answer:** Draft, explain, summarize ya advice dena.
+2. **Code:** Code likh kar aur run karke actual data par kaam karna.
+
+Agar problem data, calculations ya files se related ho to woh **Code Problem** hai.
+
+## Code Problem ke 4 Signals (VPRF)
+
+### 1. Volume
+
+Jab data itna zyada ho ke manually karna mushkil ho.
+
+**Example:** 300 files rename karna, 5000 rows total karna.
+
+### 2. Precision
+
+Jab exact answer zaroori ho.
+
+**Example:** Money, invoices, payroll, grades.
+
+### 3. Repetition
+
+Jab wohi task baar baar karna ho.
+
+**Example:** Weekly ya monthly reports.
+
+### 4. Files
+
+Jab problem files mein ho, sirf text mein nahi.
+
+**Example:** Spreadsheets, exported data, images, logs.
+
+> Agar in 4 signals mein se **ek bhi signal** ho, to woh **Code Problem** hai.
+
+Har problem Code Problem nahi hoti. Kuch problems sirf Answer Problems hoti hain, jahan AI sirf jawab deti hai. Aur kuch problems Code Problems hoti hain, jahan AI ko code likh kar aur run karke data par kaam karna hota hai.
+
+
+
+
 
 
 
