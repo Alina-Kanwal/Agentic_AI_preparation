@@ -968,6 +968,28 @@ Jab problem files mein ho, sirf text mein nahi.
 
 Har problem Code Problem nahi hoti. Kuch problems sirf Answer Problems hoti hain, jahan AI sirf jawab deti hai. Aur kuch problems Code Problems hoti hain, jahan AI ko code likh kar aur run karke data par kaam karna hota hai.
 
+Concept 4: Make the AI's Hands Move (Automatic vs. Explicit)
+Concept
+
+Kabhi kabhi AI data ko dekh kar estimate karti hai, code run nahi karti. Is wajah se result galat ho sakta hai.
+
+Agar Precision zaroori ho, to AI ko hamesha clearly kaho ke code likhe aur run kare.
+
+3-Line Prompt
+"Write and run code" AI ko computation karne par majboor karta hai.
+"Show me the code you ran" proof deta hai ke code waqai run hua.
+Row count, column names aur date range batate hain ke AI ne file sahi read ki hai.
+
+Programming language (Python, etc.) specify na karein. Sirf code run karne ko kahen. Language AI khud choose karegi.
+
+Agar response mein:
+
+Code block na ho,
+Row count na ho,
+Ya AI ye na bataye ke usne kya compute kiya,
+
+to us analysis par bharosa na karein.
+
 
 
 
