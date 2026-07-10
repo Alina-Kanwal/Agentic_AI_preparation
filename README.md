@@ -1021,6 +1021,39 @@ Important Point
 
 Kabhi bhi kisi precision-critical number par action na lein jab tak usay kam az kam ek independently known answer se verify na kar lein.
 
+Concept 7: When It Breaks
+Concept
+
+Agar code chalate waqt error aa jaye ya result galat lage, to project fail nahi hua. Error sirf batata hai ke problem kahan hai.
+
+Error Handle Karne ka Tarika
+1. Red Text Error
+
+Agar script ruk jaye aur red text aaye:
+
+Puri error AI ko paste karein.
+AI se kahen:
+"Diagnose it, fix the code, and run it again."
+2. Wrong Result
+
+Agar code chal gaya lekin result expected na ho:
+
+Expected value batayein: AI ko batao ke sahi answer kya hona chahiye (ya tum kis result ki umeed kar rahe ho).
+Row count, date range aur sample rows check karne ko kahen: AI se verify karwao ke usne file sahi read ki hai.
+Phir problem investigate karne ko kahen.
+3. Same Error 3 Baar Aaye
+
+Agar AI teen martaba same approach se problem solve na kar sake:
+
+Purani approach chhor dein.
+AI se naya approach suggest karne ko kahen: "Is problem ko kisi aur tareeqe se solve karo."
+Zarurat ho to nayi chat mein brief ke sath dobara start karein.
+Important Point
+
+Error ko khud samajhna zaroori nahi.
+
+Sirf error AI ko forward karein. AI usay read karke code ko fix kar sakti hai.
+
 
 
 
